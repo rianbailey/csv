@@ -1,0 +1,74 @@
+first_name,last_name,password,email,role,gender,birthdate,user_school_id,school_name,grade,class_1,class_2,class_3,class_4
+Sam,Bobrick,org_admin,Bobrick@bayside.demo,District_Administrator,,,18400,,,,,,
+Michael,Poryes,org_admin,Poryes@bayside.demo,District_Administrator,,,18401,,,,,,
+Susan,Sherman,org_admin,Sherman@bayside.demo,District_Administrator,,,18402,,,,,,
+Richard,Belding,site_admin,Belding@bayside.demo,School_Administrator,,,18403,Bayside High School,,,,,
+Wesley,Lawler,site_admin,Lawler@bayside.demo,School_Administrator,,,18404,Bayside Middle School,,,,,
+Matthew,Perkins,site_admin,Perkins@bayside.demo,School_Administrator,,,18405,Bayside Elementary School,,,,,
+Patrick,Dewey,teacher,Dewey@bayside.demo,Teacher,,,18406,Bayside High School,,MATH-11A,,,
+Carrie,Bliss,teacher,Bliss@bayside.demo,Teacher,,,18407,Bayside High School,,ELA-11B,,,
+Maris,Culpepper,teacher,Culpepper@bayside.demo,Teacher,,,18408,Bayside High School,,ART-11C,,,
+Avery,Mertz,teacher,Mertz@bayside.demo,Teacher,,,18409,Bayside High School,,SCIENCE-11C,,,
+Zack,Morris,student,Morris@bayside.demo,Student,male,2009-11-07,18410,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Kelly,Kapowski,student,Kapowski@bayside.demo,Student,female,2009-05-15,18411,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Samuel,Powers,student,Powers@bayside.demo,Student,male,2008-10-11,18412,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Jessie,Spano,student,Spano@bayside.demo,Student,female,2009-08-22,18413,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Lisa,Turtle,student,Turtle@bayside.demo,Student,female,2008-02-14,18414,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Albert Clifford,Slater,student,Slater@bayside.demo,Student,male,2008-04-29,18415,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Tori,Scott,student,Scott@bayside.demo,Student,female,2008-07-06,18416,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Violet,Bickerstaff,student,Bickerstaff@bayside.demo,Student,female,2009-01-18,18417,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Moose,Clayman,student,Clayman@bayside.demo,Student,male,2009-11-07,18418,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Stacey,Carosi,student,Carosi@bayside.demo,Student,female,2009-05-15,18419,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Ox,Fromin,student,Fromin@bayside.demo,Student,male,2008-07-06,18420,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Ginger,Wilson,student,Wilson@bayside.demo,Student,female,2009-06-30,18421,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Rhonda,Robistelli,student,Robistelli@bayside.demo,Student,female,2009-05-15,18422,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Louise,Lyon,student,Lyon@bayside.demo,Student,female,2009-08-22,18423,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Pete,Stonebreaker,student,Stonebreaker@bayside.demo,Student,male,2009-03-25,18424,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Maxwell,Nerdstrom,student,Nerdstrom@bayside.demo,Student,male,2008-02-14,18425,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Penny,Belding,student,Beldingp@bayside.demo,Student,female,2008-04-29,18426,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Melvin,Nerdly,student,Nerdly@bayside.demo,Student,male,2008-10-11,18427,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Jennifer,Slater,student,Slaterj@bayside.demo,Student,female,2009-01-18,18428,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Eric,Tramer,student,Tramer@bayside.demo,Student,male,2009-03-25,18429,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Nicki,Kapowski,student,Kapowskin@bayside.demo,Student,female,2009-06-30,18430,Bayside High School,11,MATH-11A,ELA-11B,ART-11C,SCIENCE-11C
+Rose,Rodriguez,teacher,Rodriguez@bayside.demo,Teacher,,,18431,Bayside Middle School,,SPANISH-6A,,,
+Ernest,Petrachelli,teacher,Petrachelli@bayside.demo,Teacher,,,18432,Bayside Middle School,,HISTORY-6D,,,
+Stuart,Grozowtski,teacher,Grozowtski@bayside.demo,Teacher,,,18433,Bayside Middle School,,THEATRE-6A,,,
+Raven,Baxter,student,Baxter@bayside.demo,Student,female,2013-09-27,18434,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Chelsea,Daniels,student,Daniels@bayside.demo,Student,female,2014-01-14,18435,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Eddie,Thomas,student,Thomas@bayside.demo,Student,male,2014-07-01,18436,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Alana,Rivera,student,Rivera@bayside.demo,Student,female,2014-08-24,18437,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Amber,Song,student,Song@bayside.demo,Student,female,2013-07-26,18438,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Ben,Sturky,student,Sturky@bayside.demo,Student,male,2013-07-13,18439,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Bianca,Rivera,student,Rivera@bayside.demo,Student,female,2013-01-15,18440,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Booker,Baxter,student,Baxterb@bayside.demo,Student,male,2013-06-10,18442,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Cami,Rivera,student,Rivera@bayside.demo,Student,female,2013-08-23,18443,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Chantel,Sidora,student,Sidora@bayside.demo,Student,female,2013-10-31,18444,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Larry,Henrie,student,Henrie@bayside.demo,Student,male,2014-01-04,18445,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Devon,Carter,student,Carter@bayside.demo,Student,male,2013-01-07,18446,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Crystal,Khalil,student,Khalil@bayside.demo,Student,female,2013-03-21,18447,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Ivy,Chen,student,Chen@bayside.demo,Student,female,2013-06-02,18448,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Emmet,Haboucha,student,Haboucha@bayside.demo,Student,male,2014-09-27,18449,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Zora,Lawson,student,Lawson@bayside.demo,Student,female,2014-01-14,18450,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Serena,Valentine,student,Valentine@bayside.demo,Student,female,2014-07-01,18451,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Ricky,Rodrigez,student,Rodrigez@bayside.demo,Student,male,2014-08-24,18452,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Nicki,Peterson,student,Peterson@bayside.demo,Student,female,2013-07-26,18453,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Muffy,Eckstein,student,Eckstein@bayside.demo,Student,female,2013-07-13,18454,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Neil,Flores,student,Flores@bayside.demo,Student,male,2013-01-15,18455,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Max,Sites,student,Sites@bayside.demo,Student,male,2013-03-28,18456,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Loca,Edwards,student,Edwards@bayside.demo,Student,female,2013-06-10,18457,Bayside Middle School,6,SPANISH-6A,HISTORY-6D,THEATRE-6A,
+Amy,Depaolo,teacher,Depaolo@bayside.demo,Teacher,,,18458,Bayside Elementary School,,Grade 03 - Depaolo,,,
+Wonjun,Son,student,Son@bayside.demo,Student,male,2016-04-27,18459,Bayside Elementary School,3,Grade 03 - Depaolo,,,
+Gabriel,Lopez,student,Lopez@bayside.demo,Student,male,2016-06-10,18460,Bayside Elementary School,3,Grade 03 - Depaolo,,,
+Joseph,Sandoval,student,Sandoval@bayside.demo,Student,male,2016-08-23,18461,Bayside Elementary School,3,Grade 03 - Depaolo,,,
+Finnegan,Doyle,student,Doyle@bayside.demo,Student,male,2016-10-06,18462,Bayside Elementary School,3,Grade 03 - Depaolo,,,
+Siobhan,Flynn,student,Flynn@bayside.demo,Student,female,2016-12-19,18463,Bayside Elementary School,3,Grade 03 - Depaolo,,,
+Jabari,Clemons,student,Clemons@bayside.demo,Student,male,2017-03-04,18464,Bayside Elementary School,3,Grade 03 - Depaolo,,,
+Addie,Clow,student,Clow@bayside.demo,Student,female,2016-01-10,18465,Bayside Elementary School,3,Grade 03 - Depaolo,,,
+Allie,Etheredge,student,Etheredge@bayside.demo,Student,female,2016-03-22,18466,Bayside Elementary School,3,Grade 03 - Depaolo,,,
+Morgan,Wells,student,Wells@bayside.demo,Student,female,2016-05-05,18467,Bayside Elementary School,3,Grade 03 - Depaolo,,,
+Maya,Desau,student,Desau@bayside.demo,Student,female,2016-07-18,18468,Bayside Elementary School,3,Grade 03 - Depaolo,,,
+Larissa,Swing,student,Swing@bayside.demo,Student,female,2016-09-30,18469,Bayside Elementary School,3,Grade 03 - Depaolo,,,
+Augustin,Carbonelle,student,Carbonelle@bayside.demo,Student,male,2016-11-12,18470,Bayside Elementary School,3,Grade 03 - Depaolo,,,
+Vivian,Shah,student,Shah@bayside.demo,Student,female,2016-02-15,18471,Bayside Elementary School,3,Grade 03 - Depaolo,,,
+David,Langhoff,student,Langhoff@bayside.demo,Student,male,2016-04-27,18472,Bayside Elementary School,3,Grade 03 - Depaolo,,,
+Declan,Brennan,student,Brennan@bayside.demo,Student,male,2016-06-10,18473,Bayside Elementary School,3,Grade 03 - Depaolo,,,

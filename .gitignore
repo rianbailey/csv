@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# testing
+coverage/
+
+# production
+build/
+dist/
+
+# logs
+logs/*.log*
+yarn-error.log
+
+# misc
+*.env
+.DS_Store
+
+# output
+output/*.csv
